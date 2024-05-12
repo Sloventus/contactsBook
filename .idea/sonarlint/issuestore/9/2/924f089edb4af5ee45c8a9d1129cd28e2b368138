@@ -1,5 +1,11 @@
 
-a
-java:S1854"?Remove this useless assignment to local variable "contactBook".(ú®µÍüÿÿÿÿ8¿Ãòæö1
-R
-java:S1481"0Remove this unused "contactBook" local variable.(ú®µÍüÿÿÿÿ8ÁÃòæö1
+p
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8Ã«ƒîö1J$6c105394-92cd-4e31-8d05-5d58ddc78a65
+~
+java:S1128"6Remove this unused import 'java.awt.event.KeyAdapter'.(ä’£åşÿÿÿÿ8Ã«ƒîö1J$3988a600-9987-4a4c-a043-509691f5992b
+w
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8Ã«ƒîö1J$8187c6d3-778c-4d33-9ebb-f542e275aac9
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Õ­îö1J$18ac1990-4e42-4fc7-92e8-2f7df3aebad1
+†
+java:S1128">Remove this unused import 'java.awt.event.KeyEvent.VK_ESCAPE'.(¢¨˜úÿÿÿÿ8Ã«ƒîö1J$a887a3b4-50d0-4a2f-87ad-14f8c103770b
