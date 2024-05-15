@@ -1,11 +1,17 @@
 
+‚
+java:S1854":Remove this useless assignment to local variable "myMenu".(çÇÓîüÿÿÿÿ8‹‰Øë÷1J$5f606c2a-7ea3-41f6-8009-8b0ad12659b3
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¬¸Úë÷1J$bf2d900d-a73f-439a-a5d5-4559dfb62d94
+s
+java:S1481"+Remove this unused "myMenu" local variable.(çÇÓîüÿÿÿÿ8‰Øë÷1J$20d0ca9a-2b15-4200-b4fb-ef12f27e0804
 p
-java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8Ã«ƒîö1J$6c105394-92cd-4e31-8d05-5d58ddc78a65
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8¯¸Úë÷1J$ad25856d-76c5-461a-a278-c18edfd3e51b
 ~
-java:S1128"6Remove this unused import 'java.awt.event.KeyAdapter'.(ä’£åşÿÿÿÿ8Ã«ƒîö1J$3988a600-9987-4a4c-a043-509691f5992b
+java:S1128"6Remove this unused import 'java.awt.event.KeyAdapter'.(ä’£åşÿÿÿÿ8¯¸Úë÷1J$0e38e2ca-8b53-4e9b-aa20-f3757b09de14
 w
-java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8Ã«ƒîö1J$8187c6d3-778c-4d33-9ebb-f542e275aac9
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8¯¸Úë÷1J$7f1087ad-6722-4cf9-ac4b-c4d201c670c0
 v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Õ­îö1J$18ac1990-4e42-4fc7-92e8-2f7df3aebad1
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¯¸Úë÷1J$adf02edb-b66b-4712-b87e-1f80a19941b6
 †
-java:S1128">Remove this unused import 'java.awt.event.KeyEvent.VK_ESCAPE'.(¢¨˜úÿÿÿÿ8Ã«ƒîö1J$a887a3b4-50d0-4a2f-87ad-14f8c103770b
+java:S1128">Remove this unused import 'java.awt.event.KeyEvent.VK_ESCAPE'.(¢¨˜úÿÿÿÿ8¯¸Úë÷1J$7f835a93-9b57-4bc4-be50-760c2d8da6d2

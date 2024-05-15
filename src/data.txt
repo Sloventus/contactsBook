@@ -1,4 +1,2 @@
 Шариков Шарик Шарикович; +89091112255; ones@example.example;
-Смирнов Смирн Смирнович; +89091112244; someBody@example.example;
-Иванов Иван Иванович; +89091112233; someEmail@example.example;
 Кубиков Кубик кубикович; +89091112266; toldme@example.example;

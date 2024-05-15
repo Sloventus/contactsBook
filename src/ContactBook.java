@@ -9,14 +9,14 @@ public class ContactBook {
 
     private Map<String,Contact> contactMap= new TreeMap<>();
 
-    public static void main(String[] args) {
-        ContactBook contactBook = new ContactBook();
-        contactBook.addContact("Иванов Иван Иванович;+89091112233;someEmail@example.example");
-        contactBook.addContact("Смирнов Смирн Смирнович;+89091112244;someBody@example.example");
-        contactBook.readFromFile("D:\\IntelliJ IDEA Community Edition 2023.3.1\\MyProjects\\from leha\\contacts\\src\\forReading.txt");
-        contactBook.printContactBook();
-        contactBook.writeToFile();
-    }
+//    public static void main(String[] args) {
+//        ContactBook contactBook = new ContactBook();
+//        contactBook.addContact("Иванов Иван Иванович;+89091112233;someEmail@example.example");
+//        contactBook.addContact("Смирнов Смирн Смирнович;+89091112244;someBody@example.example");
+//        contactBook.readFromFile("D:\\IntelliJ IDEA Community Edition 2023.3.1\\MyProjects\\from leha\\contacts\\src\\forReading.txt");
+//        contactBook.printContactBook();
+//        contactBook.writeToFile();
+//    }
 
     public Map<String,Contact> getContactBook(){
             return contactMap;

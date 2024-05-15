@@ -1,13 +1,12 @@
 
-j
-java:S2189
-""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ãœîö1J$78a15a97-b1d9-42ed-b97a-2760bce9999a
-{
-java:S1854	"8Remove this useless assignment to local variable "help".(ç§ĞÈ8åœîö1J$236996d7-ccb6-411e-b82f-c4b38141617f
-m	java:S106"+Replace this use of System.out by a logger.(îÆ“„8æœîö1J$955973fb-0cfe-403e-a619-9fda912eddd7
-l
-java:S1481	")Remove this unused "help" local variable.(ç§ĞÈ8çœîö1J$bb369e49-12f0-4717-9ec9-4ec9ed16a4c2
-r	java:S106"+Replace this use of System.out by a logger.(Õ¿†Òøÿÿÿÿ8èœîö1J$cc4f3e8d-c8f6-4e3a-ab3d-f93a453c3307
-r	java:S106"+Replace this use of System.out by a logger.(±Äèşÿÿÿÿ8èœîö1J$172acf6b-658e-4ec1-af13-fba4f60392de
+m	java:S106"+Replace this use of System.out by a logger.(îÆ“„8îä‰ì÷1J$7c235073-2c1c-4474-9902-e1b9d09781e8
+r	java:S106"+Replace this use of System.out by a logger.(Œ–œıÿÿÿÿ8ñä‰ì÷1J$3be6f6ca-be30-43d3-b1ab-95379e7cc8f8
 z
-java:S6126"2Replace this String concatenation with Text block.(±Äèşÿÿÿÿ8èœîö1J$7c124b29-882a-40d2-9a61-52aab1f01a4e
+java:S6126"2Replace this String concatenation with Text block.(Œ–œıÿÿÿÿ8•“–ì÷1J$6767fd89-4271-4198-a995-f6a49e42589a
+r	java:S106"+Replace this use of System.out by a logger.(‘Şà±şÿÿÿÿ8ñä‰ì÷1J$d659850b-f00a-4592-a1c4-62ca5b8fa81d
+r	java:S106"+Replace this use of System.out by a logger.(²Àáßşÿÿÿÿ8ñä‰ì÷1J$a9688300-b93b-4ec6-b359-4e2e5c414c97
+r	java:S106!"+Replace this use of System.out by a logger.(à˜áûÿÿÿÿ8òä‰ì÷1J$4050e946-1e59-44cb-a06c-123ab58be63b
+r	java:S106("+Replace this use of System.out by a logger.(Õ¿†Òøÿÿÿÿ8òä‰ì÷1J$87088749-5e27-402f-b179-3185cd53fbb8
+r	java:S106."+Replace this use of System.out by a logger.(±Äèşÿÿÿÿ8Ù® ì÷1J$8ff9cafc-e80c-480c-9d1c-703aa4127985
+z
+java:S6126."2Replace this String concatenation with Text block.(±Äèşÿÿÿÿ8òä‰ì÷1J$75f97b07-9bc0-4128-9a3e-641a601f6f21

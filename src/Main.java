@@ -9,11 +9,12 @@ import static java.awt.event.KeyEvent.VK_ESCAPE;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         MyMenu myMenu = new MyMenu();
-        Thread treadMenu = new Thread(myMenu);
-        treadMenu.start();
+        Thread threadMenu = new Thread(new MyMenu());
+        threadMenu.start();
     }
+
 
 
 }
